@@ -8,13 +8,13 @@
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
 -   [संदर्भ](./REFERENCES.md)
--   [टेलीमेटरी](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
 मूलपाठ
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
