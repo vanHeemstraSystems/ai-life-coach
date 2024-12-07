@@ -2,11 +2,11 @@
 
 # اسم المستودع
 
-> سلوجلاين
+> Slugline
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [الصور](./IMAGES.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
@@ -14,7 +14,7 @@
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
