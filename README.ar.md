@@ -12,7 +12,7 @@
 
 **ملخص تنفيذي**
 
-Text
+نص
 
 ## 100- مقدمة
 
@@ -26,6 +26,6 @@ Text
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
