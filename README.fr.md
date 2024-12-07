@@ -12,11 +12,11 @@ nom du référentiel
 
 **Résumé exécutif**
 
-Texte
+Text
 
 ## 100 - Introduction
 
-See [README.md](./100/README.md)
+Voir[README.md](./100/README.md)
 
 ## 200 - Exigences
 
@@ -24,7 +24,7 @@ Voir[README.md](./200/README.md)
 
 ## 300 - Construire notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
