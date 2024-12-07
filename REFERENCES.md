@@ -5,6 +5,7 @@
 - [Wooden on Leadership on Internet Archive](https://archive.org/details/woodenonleadersh0000wood)
 - [Coach Wooden's pyramid of success on Internet Archive](https://archive.org/details/isbn_9780830737185)
 - [ChatBotApp](https://chatbotapp.ai/)
+- [Calibre](https://calibre-ebook.com/)
 
 ![pyramidpdf](https://github.com/user-attachments/assets/5b6c1b1f-fbc1-41d7-9462-a6b40b8d1198)
 Pyramid of Success
