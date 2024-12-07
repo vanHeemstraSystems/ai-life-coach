@@ -14,7 +14,7 @@ Which Artificial Intelligence applications allow to add documents such as PDFs w
 
 Here's a list of AI applications that allow document uploads, focusing on free options:
 
-1. Claude (Anthropic)
+1. **Claude (Anthropic)**
    - Web: https://claude.ai
    - Allows PDF and text document uploads
    - Free tier available
@@ -49,4 +49,6 @@ Here's a list of AI applications that allow document uploads, focusing on free o
    - Free tier available
 
 Please note that features and availability can change, so I recommend checking the current capabilities and pricing on each platform's website. Each application may have different limitations on file size, number of uploads, or advanced document processing in their free tiers.​​​​​​​​​​​​​​​​
+
+Out of these we have chosen **Claude.ai** as it has a web interface as well as an iOS app, so we can use it on our iPad, iPhone, or web browser (hence, desktop).
 
