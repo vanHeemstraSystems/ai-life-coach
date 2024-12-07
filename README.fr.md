@@ -8,23 +8,23 @@ nom du référentiel
 -   [Glossaire](./GLOSSARY.md)
 -   [Images](./IMAGES.md)
 -   [Références](./REFERENCES.md)
--   [Télémétrie](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
-**Executive Summary**
+**Résumé exécutif**
 
-Text
+Texte
 
 ## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Exigences
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
