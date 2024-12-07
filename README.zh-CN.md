@@ -1,14 +1,14 @@
-存储库名称
+repository-name
 
 # 存储库名称
 
 > 斯拉格莱恩
 
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
