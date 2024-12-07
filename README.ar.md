@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-> Slugline
+> سلوجلاين
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
