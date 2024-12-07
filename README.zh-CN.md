@@ -2,9 +2,9 @@
 
 # 存储库名称
 
-> Slugline
+> 斯拉格莱恩
 
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
 -   [参考](./REFERENCES.md)
@@ -14,7 +14,7 @@
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
