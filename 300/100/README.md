@@ -6,7 +6,7 @@ When prompted the following in Claude, it came back with a list.
 
 **Prompt**:
 
-*Which Artificial Intelligence applications allow to add documents such as PDFs when prompting? Give a listing of free application, such as yourself, with links to their websites or Apple Store entries.​​​​​​​​​​​​​​​​*
+> Which Artificial Intelligence applications allow to add documents such as PDFs when prompting? Give a listing of free application, such as yourself, with links to their websites or Apple Store entries.​​​​​​​​​​​​​​​​
 
 
 **Response**:
