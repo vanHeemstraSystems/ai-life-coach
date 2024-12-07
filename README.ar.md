@@ -4,7 +4,7 @@
 
 > سلوجلاين
 
--   [التوثيق](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مراجع](./REFERENCES.md)
@@ -12,7 +12,7 @@
 
 **ملخص تنفيذي**
 
-نص
+Text
 
 ## 100- مقدمة
 
