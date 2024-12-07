@@ -5,14 +5,14 @@
 > 斯拉格萊恩
 
 -   [文件](./DOCUMENTATION.md)
--   [詞彙表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [圖片](./IMAGES.md)
 -   [參考](./REFERENCES.md)
 -   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
-文字
+Text
 
 ## 100 - 簡介
 
