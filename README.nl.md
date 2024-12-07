@@ -2,10 +2,10 @@ repositorynaam
 
 # Naam van opslagplaats
 
-> Slaklijn
+> Slugline
 
 -   [Documentatie](./DOCUMENTATION.md)
--   [Glossarium](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Afbeeldingen](./IMAGES.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
