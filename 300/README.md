@@ -1,6 +1,6 @@
 # 300 - Building Our Application
 
-## 100 - Select an AI interface
+## 100 - Select an AI Interface
 
 See [README.md](./100/README.md)
 
