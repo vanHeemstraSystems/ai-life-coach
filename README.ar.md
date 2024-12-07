@@ -1,16 +1,16 @@
-اسم المستودع
+repository-name
 
 # اسم المستودع
 
 > سلوجلاين
 
 -   [التوثيق](./DOCUMENTATION.md)
--   [مسرد](./GLOSSARY.md)
--   [الصور](./IMAGES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [Images](./IMAGES.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 نص
 
