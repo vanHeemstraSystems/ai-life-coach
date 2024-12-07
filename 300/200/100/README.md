@@ -12,4 +12,4 @@ There are several online PDF conversion tools available, that allow you to conve
 
 Note that not all Kindle books can be downloaded to PDF. Some books may have restrictions on downloading or copying content, so make sure to check the book's details before attempting to download it. Additionally, keep in mind that converting a Kindle book to PDF may affect the formatting and layout of the book.
 
-Alternatively, use [Calibre](https://calibre-ebook.com/) as explained [here](https://pdf.wondershare.com/how-to/convert-kindle-to-pdf.html)
+Alternatively, use [Calibre](https://calibre-ebook.com/) as explained [here](https://pdf.wondershare.com/how-to/convert-kindle-to-pdf.html). Optionally, watch the [introductory video of Calibre](https://calibre-ebook.com/demo).
