@@ -1,4 +1,4 @@
-repository-name
+nombre-repositorio
 
 # Nombre del repositorio
 
@@ -6,7 +6,7 @@ repository-name
 
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [Imágenes](./IMAGES.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
@@ -16,9 +16,9 @@ Texto
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
