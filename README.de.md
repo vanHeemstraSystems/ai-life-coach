@@ -14,9 +14,9 @@ Repository-Name
 
 Text
 
-## 100 - Einführung
+## 100 - Introduction
 
-Sehen[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
