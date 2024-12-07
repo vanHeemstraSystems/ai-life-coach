@@ -6,6 +6,6 @@ We have previoulsy sourced these PDFs:
 - [A Week Planning based on the Pyramid of Success] ()
 - ...
   
-We will attach them to the ChatAIBot prompt as follows:
+We will attach them to the [ChatBotApp](https://chatbotapp.ai/) prompt as follows:
 
 ... more
