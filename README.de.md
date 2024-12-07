@@ -18,14 +18,14 @@ Text
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – Erstellen unserer Anwendung
 
 Sehen[README.md](./300/README.md)
 
-## 400 – Fazit
+## 400 - Conclusion
 
 Sehen[README.md](./400/README.md)
