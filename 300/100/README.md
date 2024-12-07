@@ -51,3 +51,5 @@ Please note that features and availability can change, so I recommend checking t
 
 Out of these we have chosen **Claude.ai** as it has a web interface as well as an iOS app, so we can use it on our iPad, iPhone, or web browser (hence, desktop).
 
+Anthropic does not currently have a **macOS desktop** application for Claude. However, you can access Claude through the web-based chat interface at anthropic.com or via the API for developers. If you're interested in the latest information about Claude's availability, I recommend checking the Anthropic website at https://support.anthropic.com for the most up-to-date details about their current offerings.
+
