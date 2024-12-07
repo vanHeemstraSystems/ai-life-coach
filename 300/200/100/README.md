@@ -1,6 +1,6 @@
 # 100 - Extract ...
 
-To download your Kindle book (here: (Wooden on Leadership]())to PDF, follow these steps:
+To download your Kindle book (here: [Wooden on Leadership](https://example.com/))to PDF, follow these steps:
 
 1. Open the Kindle app on your device or go to the Kindle Cloud Reader on your computer.
 2. Locate the book you want to download to PDF and open it.
