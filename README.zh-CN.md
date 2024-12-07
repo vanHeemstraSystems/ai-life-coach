@@ -7,14 +7,14 @@
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
 
 文本
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
