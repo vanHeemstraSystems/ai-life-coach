@@ -8,12 +8,11 @@ When prompted the following in Claude, it came back with a list.
 
 > Which Artificial Intelligence applications allow to add documents such as PDFs when prompting? Give a listing of free application, such as yourself, with links to their websites or Apple Store entries.​​​​​​​​​​​​​​​​
 
-
 **Response**:
 
 Here's a list of AI applications that allow document uploads, focusing on free options:
 
-1. **Claude (Anthropic)**
+1. Claude (Anthropic)
    - Web: https://claude.ai
    - Allows PDF and text document uploads
    - Free tier available
@@ -49,7 +48,5 @@ Here's a list of AI applications that allow document uploads, focusing on free o
 
 Please note that features and availability can change, so I recommend checking the current capabilities and pricing on each platform's website. Each application may have different limitations on file size, number of uploads, or advanced document processing in their free tiers.​​​​​​​​​​​​​​​​
 
-Out of these we have chosen **Claude.ai** as it has a web interface as well as an iOS app, so we can use it on our iPad, iPhone, or web browser (hence, desktop).
-
-Anthropic does not currently have a **macOS desktop** application for Claude. However, you can access Claude through the web-based chat interface at anthropic.com or via the API for developers. If you're interested in the latest information about Claude's availability, I recommend checking the Anthropic website at https://support.anthropic.com for the most up-to-date details about their current offerings.
+Despite all of these we have chosen **[ChatBotApp](https://chatbotapp.ai/)** as it has a web interface as well as an iOS app, so we can use it on our iPad, iPhone, or web browser (hence, desktop) and unlike Cluade it lets you attach PDF files (such as a book).
 
