@@ -1,11 +1,11 @@
 nombre-repositorio
 
-# Nombre del repositorio
+# Repository Name
 
 > línea de bala
 
--   [Documentation](./DOCUMENTATION.md)
--   [Glosario](./GLOSSARY.md)
+-   [Documentación](./DOCUMENTATION.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
@@ -18,7 +18,7 @@ Texto
 
 Ver[README.md](./100/README.md)
 
-## 200 - Requisitos
+## 200 - Requirements
 
 Ver[README.md](./200/README.md)
 
@@ -28,4 +28,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-See [README.md](./400/README.md)
+Ver[README.md](./400/README.md)
