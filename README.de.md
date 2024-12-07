@@ -8,7 +8,7 @@ Repository-Name
 -   [Glossar](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
 -   [Referenzen](./REFERENCES.md)
--   [Telemetry](./TELEMETRY.md)
+-   [Telemetrie](./TELEMETRY.md)
 
 **Zusammenfassung**
 
