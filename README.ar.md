@@ -5,14 +5,14 @@
 > سلوجلاين
 
 -   [التوثيق](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [الصور](./IMAGES.md)
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
 **ملخص تنفيذي**
 
-Text
+نص
 
 ## 100- مقدمة
 
