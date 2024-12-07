@@ -10,7 +10,7 @@ nom du référentiel
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
-**Résumé exécutif**
+**Executive Summary**
 
 Texte
 
@@ -22,7 +22,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
