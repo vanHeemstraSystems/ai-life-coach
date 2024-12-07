@@ -1,16 +1,16 @@
 nombre-repositorio
 
-# Nombre del repositorio
+# Repository Name
 
-> línea de bala
+> Slugline
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
 -   [Imágenes](./IMAGES.md)
--   [References](./REFERENCES.md)
+-   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Text
 
@@ -28,4 +28,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-See [README.md](./400/README.md)
+Ver[README.md](./400/README.md)
