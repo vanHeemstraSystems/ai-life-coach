@@ -2,7 +2,7 @@
 
 # اسم المستودع
 
-> سلوجلاين
+> Slugline
 
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
@@ -10,7 +10,7 @@
 -   [مراجع](./REFERENCES.md)
 -   [القياس عن بعد](./TELEMETRY.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
