@@ -6,13 +6,13 @@ repositorynaam
 
 -   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [Afbeeldingen](./IMAGES.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
