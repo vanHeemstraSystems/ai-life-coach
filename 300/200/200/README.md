@@ -8,4 +8,12 @@ We have previoulsy sourced these PDFs:
   
 We will attach them to the [ChatBotApp](https://chatbotapp.ai/) prompt as follows:
 
+1. Click on the **+** icon and select the PDF from your disk:
+
+  ![Screenshot 2024-12-07 at 13 49 04](https://github.com/user-attachments/assets/01344d0e-5b3e-4fa7-9251-425bfdc7ac59)
+
+2. Add the following text to the prompt:
+
+   > What is the Pyramid of Success?
+   
 ... more
