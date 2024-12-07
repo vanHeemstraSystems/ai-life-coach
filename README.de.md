@@ -4,13 +4,13 @@ Repository-Name
 
 > Slugline
 
--   [Documentation](./DOCUMENTATION.md)
--   [Glossar](./GLOSSARY.md)
+-   [Dokumentation](./DOCUMENTATION.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Bilder](./IMAGES.md)
--   [Referenzen](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
@@ -18,7 +18,7 @@ Text
 
 Sehen[README.md](./100/README.md)
 
-## 200 – Anforderungen
+## 200 - Requirements
 
 Sehen[README.md](./200/README.md)
 
