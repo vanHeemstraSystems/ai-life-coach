@@ -4,9 +4,9 @@ repositorynaam
 
 > Slaklijn
 
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
--   [Images](./IMAGES.md)
+-   [Afbeeldingen](./IMAGES.md)
 -   [Referenties](./REFERENCES.md)
 -   [Telemetrie](./TELEMETRY.md)
 
@@ -14,9 +14,9 @@ repositorynaam
 
 Tekst
 
-## 100 - Introduction
+## 100 - Inleiding
 
-See [README.md](./100/README.md)
+Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
