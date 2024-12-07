@@ -2,7 +2,7 @@ nombre-repositorio
 
 # Nombre del repositorio
 
-> Slugline
+> línea de bala
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -10,7 +10,7 @@ nombre-repositorio
 -   [Referencias](./REFERENCES.md)
 -   [Telemetria](./TELEMETRY.md)
 
-**Executive Summary**
+**Resumen ejecutivo**
 
 Texto
 
