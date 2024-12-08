@@ -5,14 +5,14 @@
 > स्लगलाइन
 
 -   [प्रलेखन](./DOCUMENTATION.md)
--   [Glossary](./GLOSSARY.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
 
 **कार्यकारी सारांश**
 
-Text
+मूलपाठ
 
 ## 100 - परिचय
 
