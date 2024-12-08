@@ -4,6 +4,8 @@ With the following query, prompt Artificial Intelligence (AI) for a response:
 
 > Industriousness: If I would divide the time of my day into blocks like the blocks of the Pyramid of Success, doing my Work as an employee of a software company where I Work as a software engineer practicing Agile, and I would start a block that focuses on Industriousness, for the duration of two hours (09:00 - 11:00), what would you in your role as a life coach advice me to be doing during this time block to be successful in my life?
 
+## 100 - Industriousness
+
 **Response**: Industriousness
 
 > Based on the context provided, here is how you can use industriousness to be successful as a software engineer practicing Agile:
@@ -23,3 +25,11 @@ In Agile, the focus is on iterative development, continuous improvement, and del
 5. Maintain a positive, enthusiastic attitude even when facing challenges. Industriousness includes a determination to overcome obstacles and see tasks through to completion.
 
 By embodying the industriousness principles of hard work, planning, continuous improvement, collaboration, and positivity, you can leverage this foundation to achieve success as an Agile software engineer. Industriousness underpins many of the core values and practices of Agile development.
+
+## 200 - Enthusiasm
+
+...
+
+## 300 - More
+
+More
