@@ -2,13 +2,13 @@
 
 # 存储库名称
 
-> 斯拉格莱恩
+> Slugline
 
 -   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
--   [图片](./IMAGES.md)
+-   [Images](./IMAGES.md)
 -   [参考](./REFERENCES.md)
--   [遥测](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **执行摘要**
 
@@ -28,4 +28,4 @@
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
