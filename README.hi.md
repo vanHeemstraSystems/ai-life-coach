@@ -4,7 +4,7 @@
 
 > स्लगलाइन
 
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [इमेजिस](./IMAGES.md)
 -   [संदर्भ](./REFERENCES.md)
@@ -12,7 +12,7 @@
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+Text
 
 ## 100 - परिचय
 
