@@ -4,13 +4,13 @@
 
 > 斯拉格莱恩
 
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [图片](./IMAGES.md)
--   [参考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
-**Executive Summary**
+**执行摘要**
 
 文本
 
