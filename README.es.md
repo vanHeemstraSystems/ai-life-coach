@@ -1,8 +1,8 @@
 nombre-repositorio
 
-# Nombre del repositorio
+# Repository Name
 
-> línea de bala
+> Slugline
 
 -   [Documentación](./DOCUMENTATION.md)
 -   [Glosario](./GLOSSARY.md)
@@ -14,7 +14,7 @@ nombre-repositorio
 
 Texto
 
-## 100 - Introduction
+## 100 - Introducción
 
 Ver[README.md](./100/README.md)
 
