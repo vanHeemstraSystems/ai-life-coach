@@ -48,5 +48,5 @@ Here's a list of AI applications that allow document uploads, focusing on free o
 
 Please note that features and availability can change, so I recommend checking the current capabilities and pricing on each platform's website. Each application may have different limitations on file size, number of uploads, or advanced document processing in their free tiers.​​​​​​​​​​​​​​​​
 
-Despite all of these we have chosen **[ChatBotApp](https://chatbotapp.ai/)** as it has a web interface as well as an iOS app, so we can use it on our iPad, iPhone, or web browser (hence, desktop) and unlike Cluade it lets you attach PDF files (such as a book).
+Despite all of these we have chosen **[ChatBotApp](https://chatbotapp.ai/)** as it has a web interface as well as an iOS app, so we can use it on our iPad, iPhone, or web browser (hence, desktop) and unlike Claude it lets you attach PDF files (such as a book).
 
